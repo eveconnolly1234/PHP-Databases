@@ -1,0 +1,12 @@
+ <footer>
+ <h2> Thanks for visiting our site</h2>
+ <p>Contact us for futher information</p>
+       <nav>
+    <ul class="main_navbar" >
+        <li class="navbar"><a href="index.php">Home</a></li>
+        <li class="navbar"><a href="customers.php">Customers</a></li>
+        <li class="navbar"><a class="active" href="orders.php">Orders</a></li>
+    
+    </ul>
+    </nav>
+    </footer>

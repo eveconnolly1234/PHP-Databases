@@ -1,0 +1,80 @@
+html{
+    width: 100%;
+}
+h1{
+    color: navy;
+    text-align: center;
+    font-size: 200%;
+}
+h2{
+    color: navy;
+    text-align: center;
+    font-size: 150%
+}
+h3{
+    font-size: 120%;
+    margin-left: 10%;
+    text-decoration: underline;
+    color: navy;
+}
+p{
+    text-align: center;
+}
+table{
+    padding: 2%;
+    text-align: center;
+    width:60%;
+    
+}
+body {
+    color: #545454;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 110%;
+    background-color: powderblue;
+
+}
+th{
+    padding:2px;
+    
+}
+td{
+  padding:3px;
+    border-bottom: 1px solid #0099ff; 
+}
+table{
+    margin-left: 10%;
+    margin-right: 10%;
+    width:80%;
+    display: block; 
+}
+#productLine{
+    object-position: center;
+    display: block;
+}
+#form{
+   object-position: center;
+    display: block; 
+    margin-left: 45%;
+}
+
+.main_navbar a {
+
+  color: #f2f2f2;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 120%;
+   
+}
+.main_navbar a:hover {
+  color: #001a4d;
+}
+
+
+.navbar {
+    float:center;
+    display: inline-block;
+    text-align: center;
+    margin-left: 17%;
+  
+}
+

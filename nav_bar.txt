@@ -1,0 +1,15 @@
+
+<header>
+    <h1>Classic Models</h1>
+        
+        <nav>
+<ul class="main_navbar" >
+        <li class="navbar"><a href="index.php">Home</a></li>
+        <li class="navbar"><a href="customers.php">Customers</a></li>
+        <li class="navbar"><a href="orders.php">Orders</a></li>
+    
+    </ul>
+    </nav>
+ </header>
+ 
+
