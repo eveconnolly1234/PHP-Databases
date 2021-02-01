@@ -13,9 +13,6 @@ Manipultation of SQL requests according to what the information the user require
   </li>
   
 <li>
- Include appropriate error handling ie it should be able to recover and
-respond appropriately when a database connection fails or when a query fails and causes an error.
-Informative error messages should be displayed on your webpages so that a person using your website
-understands where the problem has occurred. 
+ Include appropriate error handling ie it should be able to recover and respond appropriately when a database connection fails or when a query fails and causes an error. Informative error messages should be displayed on the webpage so that the user understands where the problem has occurred. 
   </li>
   </ul>
